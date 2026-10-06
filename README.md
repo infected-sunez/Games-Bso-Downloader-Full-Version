@@ -231,4 +231,4 @@ This repository serves as the official landing page for Games BSO Downloader. Th
 **Get the most recent version of Games BSO Downloader today!**
 
 ---
-**Last updated:** 2026-10-05 18:08:02 UTC
+**Last updated:** 2026-10-06 00:40:42 UTC
